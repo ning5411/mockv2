@@ -32,5 +32,5 @@ Endpoints:
 Install-Build-Required: false
 Source-Url: https://github.com/ning5411/mockv2.git
 #Source-Url: https://github.com/ning5411/mockv2/raw/master/mockv2.zip
-Source-Url: https://github.com/ning5411/mockv2/raw/master/mockv2.tar.gz
+#Source-Url: https://github.com/ning5411/mockv2/raw/master/mockv2.tar.gz
 #Source-Url: file:///root/mockv2/
